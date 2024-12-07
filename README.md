@@ -23,7 +23,10 @@ wget https://github.com/Bhautik-2004/office-terminal/releases/download/v1.0/offi
 ```
 sudo apt install ./office-terminal.deb
 ```
-
+To convert a file from DOS (Windows) format to Unix format:
+```
+sudo dos2unix /usr/bin/main.py
+```
 Get a random quote from a specific character:
 ```
 ./main.py -c michael
@@ -36,10 +39,6 @@ Get a random "That's What She Said" (TWSS) quote:
 To view all the available options, run:
 ```
 ./main.py -h
-```
-To convert a file from DOS (Windows) format to Unix format:
-```
-sudo dos2unix /usr/bin/main.py
 ```
 
 
