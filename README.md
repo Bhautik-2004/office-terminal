@@ -41,7 +41,7 @@ To view all the available options, run:
 ./main.py -h
 ```
 
-## uninstall office-terminal
+## Uninstall office-terminal
 ```
 sudo dpkg --remove office-terminal 
 ```
