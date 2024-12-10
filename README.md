@@ -41,6 +41,11 @@ To view all the available options, run:
 ./main.py -h
 ```
 
+## uninstall office-terminal
+```
+sudo dpkg --remove office-terminal 
+```
+
 
 ## License
 This project is licensed under the MIT License.
