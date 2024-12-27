@@ -29,16 +29,16 @@ sudo dos2unix /usr/bin/main.py
 ```
 Get a random quote from a specific character:
 ```
-./main.py -c michael
+main.py -c michael
 ```
 Get a random "That's What She Said" (TWSS) quote:
 ```
-./main.py -twss
+main.py -twss
 ```
 
 To view all the available options, run:
 ```
-./main.py -h
+main.py -h
 ```
 
 ## Uninstall office-terminal
